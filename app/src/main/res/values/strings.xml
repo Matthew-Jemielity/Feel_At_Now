@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Feel@Now</string>
+    <string name="happy">Happy about it</string>
+    <string name="meh">Neutral about it</string>
+    <string name="sad">Sad about it</string>
+    <string name="graph">Show graph</string>
+</resources>
